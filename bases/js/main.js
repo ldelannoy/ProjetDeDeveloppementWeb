@@ -12,7 +12,13 @@ myButton.addEventListener('click',function(){
     //alert ('test');});
     document.querySelector('table tr').remove();
 });
+const Button = document.getElementById('bouton');
 
+Button.addEventListener('click',function(){
+
+    
+
+});
 /*$('#bouton-bleu').on('click', function(){
     $('table').find('tr').last().remove();
 });*/
